@@ -17,7 +17,7 @@ The CLI supports three commands: list, copy, and show. For a list of all games r
 ```
 python -m freegames list
 ```
-Any of the listed games may be played by executing the Python module from the command-line. To reference the Python module, combine `freegames` with the name of the game. For example, to play the `snake` game run:
+Any of the listed games may be played by executing the Python module from the command-line. To reference the Python module, combine `freegames` with the name of the game. For example, to play the `snake` game run: `pranav`
 ```
 python -m freegames.snake
 ```
