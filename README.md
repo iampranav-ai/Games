@@ -31,3 +31,5 @@ python snake.py
 ```
 Python includes a built-in text editor named IDLE which can also execute Python code. To launch the editor and make changes to the “snake” game run:
 
+By Pranav
+
